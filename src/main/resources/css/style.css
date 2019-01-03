@@ -1,0 +1,11 @@
+.Panel1Background{
+    -fx-background-color: rgba(2, 1, 2, 0.85);
+}
+
+.Panel2Background{
+    -fx-background-color: rgba(30, 146, 93, 0.85);
+}
+
+.Panel3Background{
+    -fx-background-color: rgba(28, 59, 51, 0.85);
+}
